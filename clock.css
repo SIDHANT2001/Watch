@@ -1,0 +1,36 @@
+/* <style> */
+        body {
+            margin: 0px;
+            background-image: url(' back.jpg');
+        }
+
+        #clock {
+            margin: 18vh auto;
+            padding: 20px;
+            background-color: rgb(29, 79, 8);
+            border-radius: 28%;
+            height: 55vh;
+            width: 50vw;
+        }
+
+        #outer {
+            width: 25vw;
+            height: 50vh;
+            border-radius: 50%;
+            padding: 10px;
+            /* background-color: rgb(98, 21, 140); */
+            margin: auto;
+        }
+
+        #inner {
+            text-align: justify;
+            width: 13vw;
+            line-height: 150%;
+            margin: auto;
+            font-weight: bold;
+            margin-top: 120px;
+            margin-left: 90px;
+            color: gainsboro;
+
+        }
+    /* </style> */
